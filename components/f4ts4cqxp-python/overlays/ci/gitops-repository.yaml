@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: f4ts4cqxp-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/f4ts4cqxp-python-gitops
